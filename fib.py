@@ -22,6 +22,6 @@ for i in range(s):
     for j in range(i):
         if p[i] < p[j]:
 
-            p[i] = max(p[i], p[j] +1)
+            
             
             
