@@ -19,7 +19,7 @@ s = len(v)
 p = [i] * s
 
 for i in range(s):
-    for j in range(i):
+    
       
 
             
