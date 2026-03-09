@@ -14,7 +14,7 @@ print(max(res))
 
 v = [5, 3, 4, 8, 7]
 
-s = len(v)
+
 
 
 
